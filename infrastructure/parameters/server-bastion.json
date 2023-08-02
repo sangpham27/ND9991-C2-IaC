@@ -1,0 +1,18 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "Udagram"
+    },
+    {
+        "ParameterKey": "SourceIP",
+        "ParameterValue": "85.221.159.72/32"
+    },
+    {
+        "ParameterKey": "S3BucketKeyName",
+        "ParameterValue": "udagram-sangpt-4"
+    },
+    {
+        "ParameterKey": "KeyBastionSSH",
+        "ParameterValue": "udagram"
+    }
+]
